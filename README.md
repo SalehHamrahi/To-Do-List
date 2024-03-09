@@ -1,8 +1,6 @@
 # To-Do-List
 To begin :
-```
-./todo_list.sh
-```
+``` ./todo_list.sh ```
 
 for help :
 ``` -h or --help ```
